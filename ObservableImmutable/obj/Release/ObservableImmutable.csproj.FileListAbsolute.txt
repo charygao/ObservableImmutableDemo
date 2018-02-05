@@ -1,0 +1,8 @@
+D:\Program Files\HK\Desktop\Source\ObservableImmutableDemo\ObservableImmutable\bin\Release\ObservableImmutable.dll
+D:\Program Files\HK\Desktop\Source\ObservableImmutableDemo\ObservableImmutable\bin\Release\ObservableImmutable.pdb
+D:\Program Files\HK\Desktop\Source\ObservableImmutableDemo\ObservableImmutable\bin\Release\System.Collections.Immutable.dll
+D:\Program Files\HK\Desktop\Source\ObservableImmutableDemo\ObservableImmutable\bin\Release\System.Collections.Immutable.xml
+D:\Program Files\HK\Desktop\Source\ObservableImmutableDemo\ObservableImmutable\obj\Release\ObservableImmutable.csprojResolveAssemblyReference.cache
+D:\Program Files\HK\Desktop\Source\ObservableImmutableDemo\ObservableImmutable\obj\Release\ObservableImmutable.csproj.CoreCompileInputs.cache
+D:\Program Files\HK\Desktop\Source\ObservableImmutableDemo\ObservableImmutable\obj\Release\ObservableImmutable.dll
+D:\Program Files\HK\Desktop\Source\ObservableImmutableDemo\ObservableImmutable\obj\Release\ObservableImmutable.pdb
